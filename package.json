@@ -53,7 +53,7 @@
     "terser-webpack-plugin": "^5.1.1",
     "webpack": "^5.2.0",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^5.0.4"
   },
   "homepage": "https://github.com/srm985/axure-redline-tool#readme",
   "husky": {
